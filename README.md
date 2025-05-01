@@ -14,12 +14,12 @@ I'm a **DevOps Engineer** with a deep understanding of cloud technologies, autom
 
 ### **Cloud Computing:**
 - **Amazon Web Services (AWS):** EC2, S3, Lambda, RDS, CloudFormation, EKS, ECS, CloudWatch
-- **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation
-- **CI/CD Tools:** Jenkins, GitLab CI, CircleCI, AWS CodePipeline
+- **Infrastructure as Code (IaC):** Terraform, 
+- **CI/CD Tools:** Jenkins, GiyHub Actions, ArgoCD
 - **Version Control:** Git, GitHub, GitLab
 
 ### **Automation & Configuration Management:**
-- **Tools:** Ansible, Chef, Puppet
+- **Tools:** Ansible
 - **Scripting Languages:** Python, Shell, Bash, PowerShell
 
 ### **Containerization & Orchestration:**
@@ -63,10 +63,9 @@ This project automates security best practices on AWS using services like AWS IA
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [udaydevops07@example.com](mailto:udaydevops07@example.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/udaydevops07/)
-- 📱 [Twitter](https://twitter.com/udaydevops07)
-- 🔗 [Personal Portfolio](https://udaydevops07.com)
+- 📧 Email: [udaydevops07@gmail.com](mailto:udaydevops07@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/udayachanta/)
+- 🔗 [Medium](https://medium.com/@udaydevops07)
 
 Feel free to reach out if you're looking for a DevOps professional to help you build robust and scalable cloud infrastructures!
 
